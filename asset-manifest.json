@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Recursively/static/css/main.b4bb0fc1.css",
+    "main.js": "/Recursively/static/js/main.9681a2a0.js",
+    "static/js/787.aaa53974.chunk.js": "/Recursively/static/js/787.aaa53974.chunk.js",
+    "index.html": "/Recursively/index.html",
+    "main.b4bb0fc1.css.map": "/Recursively/static/css/main.b4bb0fc1.css.map",
+    "main.9681a2a0.js.map": "/Recursively/static/js/main.9681a2a0.js.map",
+    "787.aaa53974.chunk.js.map": "/Recursively/static/js/787.aaa53974.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4bb0fc1.css",
+    "static/js/main.9681a2a0.js"
+  ]
+}
