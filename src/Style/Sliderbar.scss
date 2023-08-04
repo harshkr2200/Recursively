@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main {
+  width: 50%;
+  margin: 0 auto;
+  background-color: black;
+  color: #fff;
+  height: 80vh;
+  padding: 1rem;
+}
+.child {
+  margin-left: 1rem;
+  font-size: 16px;
+  transition: all 0.2s ease;
+  color: crimson;
+}
+.parent {
+  margin-left: 0.5rem;
+  font-size: 20px;
+}
+h2 {
+  margin: 1rem;
+  font-size: 20px;
+}
